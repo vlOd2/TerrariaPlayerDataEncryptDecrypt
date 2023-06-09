@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerrariaPlayerDataEncryptDecrypt", "TerrariaPlayerDataEncryptDecrypt\TerrariaPlayerDataEncryptDecrypt.csproj", "{9A82D180-B307-4883-AD37-B7BF6664C62D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Build|x86 = Build|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A82D180-B307-4883-AD37-B7BF6664C62D}.Build|x86.ActiveCfg = Build|x86
+		{9A82D180-B307-4883-AD37-B7BF6664C62D}.Build|x86.Build.0 = Build|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A216B63F-9688-4C2C-BD53-03F01A2453BE}
+	EndGlobalSection
+EndGlobal
